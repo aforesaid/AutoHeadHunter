@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadHunter.Application", "HeadHunter.Application\HeadHunter.Application.csproj", "{95233748-A8DF-463C-86CA-AFCD4127BC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadHunter.Core", "HeadHunter.Core\HeadHunter.Core.csproj", "{9DD2043B-7912-4801-B056-CCCC9ADA0E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadHunter.MediatR", "HeadHunter.MediatR\HeadHunter.MediatR.csproj", "{C8925004-C098-44E0-BCC9-E6C8E6B49747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95233748-A8DF-463C-86CA-AFCD4127BC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95233748-A8DF-463C-86CA-AFCD4127BC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95233748-A8DF-463C-86CA-AFCD4127BC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95233748-A8DF-463C-86CA-AFCD4127BC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD2043B-7912-4801-B056-CCCC9ADA0E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD2043B-7912-4801-B056-CCCC9ADA0E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD2043B-7912-4801-B056-CCCC9ADA0E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD2043B-7912-4801-B056-CCCC9ADA0E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8925004-C098-44E0-BCC9-E6C8E6B49747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8925004-C098-44E0-BCC9-E6C8E6B49747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8925004-C098-44E0-BCC9-E6C8E6B49747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8925004-C098-44E0-BCC9-E6C8E6B49747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

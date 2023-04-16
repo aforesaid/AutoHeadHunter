@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  headhunter:
+      image: bezla/headhunter
+      build:
+        context: ./src
+        dockerfile: ./HeadHunter.Application/Dockerfile
